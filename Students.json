@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6b0452db307c2dae769218c9"
+  },
+  "studentNumber": "ZUT001",
+  "firstName": "Chileshe",
+  "lastName": "Mwila",
+  "language": "Bemba",
+  "programme": "Information Technology",
+  "studyYear": 3,
+  "email": "chileshemwila@gmail.com",
+  "phoneNumber": "0970000000"
+},
+{
+  "_id": {
+    "$oid": "6b0453ea307c2dae769218cb"
+  },
+  "studentNumber": "ZUT002",
+  "firstName": "Kabamba",
+  "lastName": "Kashikoto",
+  "language": "Kaonde",
+  "programme": "Computer Science",
+  "studyYear": 1,
+  "email": "kabambakashikoto@gmail.com",
+  "phoneNumber": "0970000001"
+},
+{
+  "_id": {
+    "$oid": "6b045403307c2dae769218cd"
+  },
+  "studentNumber": "ZUT003",
+  "firstName": "Mutinta",
+  "lastName": "Kapenda",
+  "language": "Lunda",
+  "programme": "Information Technology",
+  "studyYear": 3,
+  "email": "mutintakapenda@gmail.com",
+  "phoneNumber": "0970000002"
+},
+{
+  "_id": {
+    "$oid": "6b045414307c2dae769218cf"
+  },
+  "studentNumber": "ZUT004",
+  "firstName": "Thandiwe",
+  "lastName": "Banda",
+  "language": "Nyanja",
+  "programme": "Business Information Systems",
+  "studyYear": 2,
+  "email": "thandiwebanda@gmail.com",
+  "phoneNumber": "0970000003"
+},
+{
+  "_id": {
+    "$oid": "6b045429307c2dae769218d1"
+  },
+  "studentNumber": "ZUT005",
+  "firstName": "Mwelwa",
+  "lastName": "Mweemba",
+  "language": "Tonga",
+  "programme": "Computer Science",
+  "studyYear": 1,
+  "email": "mwelwamweemba@gmail.com",
+  "phoneNumber": "0970000004"
+},
+{
+  "_id": {
+    "$oid": "6b045450307c2dae769218d3"
+  },
+  "studentNumber": "ZUT006",
+  "firstName": "Nalukui",
+  "lastName": "Sinyinda",
+  "language": "Lozi",
+  "programme": "Information Technology",
+  "studyYear": 3,
+  "email": "nalukuisinyinda@gmail.com",
+  "phoneNumber": "0970000005"
+}]
